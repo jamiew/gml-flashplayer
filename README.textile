@@ -1,0 +1,17 @@
+h1. GML Flashplayer
+
+Todd Vanderlin's Graffiti Markup Language (GML) Flash playback app
+
+As seen on "000000book.com":http://000000book.com
+Embed-friendly!
+
+!http://fffff.at/fuckflickr/data/GML/gml-flashplayer.png!
+
+I'm proxy-publishing this for Todd as I've received a number of
+requests for Flash code to parse & draw GML
+
+For more information on Graffiti Markup Language:
+"http://graffitianalysis.com":http://graffitianalysis.com
+"http://000000book.com":http://000000book.com
+"http://fffff.at":http://fffff.at
+
